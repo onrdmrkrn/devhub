@@ -10,8 +10,8 @@ spring:
     name: auth
   datasource:
     url: jdbc:mysql://localhost:3306/auth?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
-    username: akademi4
-    password: 12345
+    username: devhub
+    password: onuronuR3.
     hikari:
       connection-timeout: 3000000
     driverClassName: com.mysql.jdbc.Driver
